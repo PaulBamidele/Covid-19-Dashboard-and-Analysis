@@ -1,4 +1,4 @@
-  **AIRPLANE CRASHES AND FATALITIES FROM 1908 TO 2009**
+  **COVID 19 Analysis and Visualisation from 2020 - 2022**
   
 The dataset contains data of airplane accidents involving civil, commercial, and military transport worldwide from 1908-09-17 to 2009-06-08. It provides information about the history of airplane crashes around the world, the causes, and the death rates.
 
