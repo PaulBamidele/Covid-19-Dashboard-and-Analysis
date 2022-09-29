@@ -1,28 +1,30 @@
   **COVID 19 Analysis and Visualisation from 2020 - 2022**
   
-The dataset contains data of airplane accidents involving civil, commercial, and military transport worldwide from 1908-09-17 to 2009-06-08. It provides information about the history of airplane crashes around the world, the causes, and the death rates.
+The dataset on COVID 19 was provide by Oyinbooke Olanrewaju during the #NG30daysoflearning programme that was organised by Microsoft. The dataset contains data about the various countries we have in the world, confirmed cases of COVID-19 in the countries, recovered cases, death cases, the latitutde and longitude of these countries.  
 
 **PROBLEM STATEMENT**
 
-Airplane crash leads to loss of lives and most of the survivors do live with the negative effects e.g trauma, diabilities etc. it had on them for the rest of their lives. This project hope to enable the readers to know what to do in order prevent airplane crash in the future and give them insights on previous occurrences including the rate of fatality and survival etc.
+Coronavirus disease 2019 (COVID-19) is a contagious disease caused by a virus, the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The first known case was identified in Wuhan, China, in December 2019.The disease quickly spread worldwide, resulting in the COVID-19 pandemic. This Pandemic led to a global lockdown all over the world and it affected lot of lives, careers and businesses. Due to the level at which the disease is contagious, many people were affected and some of them lost their lives while some recovered. 
 
 **PROBLEM OBJECTIVES**
 
 The goal of this project is to provide insights on and provide answers to the following questions:
 
-* Which Country has the highest fatality rate?
+* The Top 5 countries with the highest confirmed cases of COVID-19 and also with the lowest confirmed cases of COVID-19
 
-* What is the rate of Fatality and Survival?
+* Countries with the highest death cases as a result of COVID 19
 
-* What is the type of airplane with the highest occurrence of fatalities and survivals?
+* What year was the highest case of COVID-19 confirmed?
 
-* When did the most fatal airplane crash happen? WHat is the number of fatalities and where did it take place?
+* What year was the highest death case as a result of COVID 19 recorded?
 
-* Which year has the highest number of Survivors and which one has the highest number of Fatalities per year?
+* What is the total confirmed cases of COVID-19 recorded from 2020 -2021?
 
-* What is the record of the number of survivors and fatalities per month?
+* What is the total death rate from 2020 to 2022?
 
-* Compare the sum of passengers aboard, fatalities and survivors by operators including the survival and fatality rates.
+* What is the total death cases and recovered cases of COVID 19 recorded within those years.
+
+* What month(s) has the highest confirmed cases and death cases of COVID-19 when filtered by year?
 
 **DATA SOURCING**
 
